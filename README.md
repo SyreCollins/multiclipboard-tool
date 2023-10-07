@@ -55,3 +55,5 @@ Example Usage:
   
 License
 This script is provided under the MIT License.
+
+I plan on releasing this code as an extension for vs code in the nearest future...a link would be provided when done.
